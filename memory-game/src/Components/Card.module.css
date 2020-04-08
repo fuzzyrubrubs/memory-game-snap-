@@ -1,0 +1,19 @@
+/* .Card {
+    display: flex;
+    background-color: red;
+    flex-direction: row;
+    justify-content: center;
+    flex-basis: 50px;
+} */
+
+.Card {
+    margin: 10px;
+    height: 150px;
+    min-width: 100px;
+    width: 10%;
+    background-color: grey;
+    border: 6px solid grey;
+    border-radius: 25px;
+    display: inline-block;
+
+}
